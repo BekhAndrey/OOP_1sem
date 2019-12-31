@@ -1,0 +1,6 @@
+D:\Учеба\ООП\15 лаба\15laba\15laba\bin\Debug\15laba.exe.config
+D:\Учеба\ООП\15 лаба\15laba\15laba\bin\Debug\15laba.exe
+D:\Учеба\ООП\15 лаба\15laba\15laba\bin\Debug\15laba.pdb
+D:\Учеба\ООП\15 лаба\15laba\15laba\obj\Debug\15laba.csprojAssemblyReference.cache
+D:\Учеба\ООП\15 лаба\15laba\15laba\obj\Debug\15laba.exe
+D:\Учеба\ООП\15 лаба\15laba\15laba\obj\Debug\15laba.pdb
