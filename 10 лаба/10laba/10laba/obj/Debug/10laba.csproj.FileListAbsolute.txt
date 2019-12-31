@@ -1,0 +1,7 @@
+D:\Учеба\ООП\10 лаба\10laba\10laba\bin\Debug\10laba.exe.config
+D:\Учеба\ООП\10 лаба\10laba\10laba\bin\Debug\10laba.exe
+D:\Учеба\ООП\10 лаба\10laba\10laba\bin\Debug\10laba.pdb
+D:\Учеба\ООП\10 лаба\10laba\10laba\obj\Debug\10laba.csprojAssemblyReference.cache
+D:\Учеба\ООП\10 лаба\10laba\10laba\obj\Debug\10laba.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\10 лаба\10laba\10laba\obj\Debug\10laba.exe
+D:\Учеба\ООП\10 лаба\10laba\10laba\obj\Debug\10laba.pdb
