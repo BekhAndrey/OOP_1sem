@@ -1,0 +1,21 @@
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe.config
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.pdb
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csprojAssemblyReference.cache
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csproj.CoreCompileInputs.cache
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.exe
+I:\Учеба\ООП\лабы\OOP-Labs-3rd-smstr-master\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.pdb
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csprojAssemblyReference.cache
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csproj.CoreCompileInputs.cache
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.exe
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.pdb
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe.config
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe
+I:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.pdb
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.exe
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.pdb
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe.config
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.exe
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\bin\Debug\OOP_Lab3.pdb
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csprojAssemblyReference.cache
+D:\Учеба\ООП\3 лаба\OOP_Lab03\OOP_Lab3\obj\Debug\OOP_Lab3.csproj.CoreCompileInputs.cache
