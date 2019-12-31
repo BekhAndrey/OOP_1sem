@@ -1,0 +1,6 @@
+D:\Учеба\ООП\13 лаба\13laba\13laba\obj\Debug\13laba.csprojAssemblyReference.cache
+D:\Учеба\ООП\13 лаба\13laba\13laba\bin\Debug\13laba.exe.config
+D:\Учеба\ООП\13 лаба\13laba\13laba\bin\Debug\13laba.exe
+D:\Учеба\ООП\13 лаба\13laba\13laba\bin\Debug\13laba.pdb
+D:\Учеба\ООП\13 лаба\13laba\13laba\obj\Debug\13laba.exe
+D:\Учеба\ООП\13 лаба\13laba\13laba\obj\Debug\13laba.pdb
